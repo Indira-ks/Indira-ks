@@ -1,5 +1,7 @@
 Hey there 👋
+
 I'm Indira, a student exploring the world of coding.
+
 Currently learning Python and working towards becoming an AI/ML engineer.
 
 <!--
