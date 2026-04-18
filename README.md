@@ -1,4 +1,6 @@
-## Hi there 👋
+Hey there 👋
+I'm Indira, a student exploring the world of coding.
+Currently learning Python and working towards becoming an AI/ML engineer.
 
 <!--
 **IKS4222/IKS4222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
