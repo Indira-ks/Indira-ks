@@ -1,4 +1,4 @@
-Hey there 👋
+Hey there 👋✨
 
 I'm Indira, a Computer Science Engineering student exploring the world of coding.
 
